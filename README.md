@@ -80,6 +80,18 @@ ransfer tickets to others easily through the platform.
 Show your digital ticket at the event entry.
 
 Smart contracts will validate the ticket for authenticity.
+
+## Project Structure
+.
+├── contracts
+│   └── EventTicketingSystem
+│       ├── src
+│       │   ├── lib.rs
+│       │   └── test.rs
+│       └── Cargo.toml
+├── Cargo.toml
+└── README.md
+
 ## Contributing
 
 Contributions are always welcome!
