@@ -45,6 +45,18 @@ Navigate to the "Create Event" section.
 
 Fill in event details and issue digital tickets.
 
+## Contract Functions
+Sure, here are the contract function names with their one-liner descriptions:
+
+1. `set_admin`: Sets the admin address.
+2. `add_event_organizer`: Adds an event organizer with a specified ID and address.
+3. `remove_event_organizer`: Removes an event organizer based on its ID.
+4. `issue_ticket`: Issues a digital ticket as a token for a specified event.
+5. `transfer_ticket`: Transfers a digital ticket from one address to another.
+6. `validate_ticket`: Validates a digital ticket for entry to an event.
+7. `get_event_details`: Retrieves the details of a specified event.
+8. `get_ticket_details`: Retrieves the details of a specified ticket.
+   
 ## Manage tickets
 
 View issued tickets.
